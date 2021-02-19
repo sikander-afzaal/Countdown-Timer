@@ -64,6 +64,7 @@ body {
   color: black;
   font-size: 32px;
   color: white;
+  letter-spacing: 5px;
 }
 .number {
   color: hsl(345, 95%, 68%);
